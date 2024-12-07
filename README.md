@@ -1,7 +1,8 @@
 # Homework 4 - Algorithmic Methods of Data Mining
 
 ## Movie Recommendation System 
-![Movie Recommendation](https://miro.medium.com/v2/resize:fit:998/0*fXPXXUcwBqjtKZIH.png)
+
+![Movie Recommendation](https://www.justwatch.com/appassets/img/home/global-home-bg-comp.png)
 
 This repository contains the solution for **Homework 4** of the course *Algorithmic Methods of Data Mining*.
 
@@ -23,17 +24,21 @@ In addition to creating a user preference recommendation system, the computation
 ### Examples:
 
 **Input 1**
+
 ```nums = [1, 5, 2]```
 
 **Output 1**
+
 ```False```
 
 **Explanation:** Arya’s optimal choices still lead her to a lower score than Mario’s, so she cannot guarantee victory.
 
 **Input 2**
+
 ```nums = [1, 5, 233, 7]```
 
 **Output 2**
+
 ```True```
 
 **Explanation:** Arya, by playing perfectly, can ensure she ends up with the highest score.
