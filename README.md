@@ -47,10 +47,17 @@ In addition to creating a user preference recommendation system, the computation
 
 ### Repository Contents:
 
-- **`Movie Project`**: A folder containing a notebook file with the progress and comments of the tasks performed and several .py files of the functions implemented to realize the different tasks. Specifically it includes:
-    - **Movie Dataset Analysis.ipynb**: A Jupyter Notebook containing Python code, explanations and outputs for each question of the homework and a pseudocode of an algorithm with a related explanation of the computational complexity obtained and subsequently compared with that of an LLM response model;
-    - **locality_sensitive_hashing.py**:A Python file that implements the Locality Sensitive Hashing (LSH) algorithm. It builds hash buckets based on MinHash signatures to efficiently identify similar items, supports querying for similar users, and includes tools for debugging bucket distributions;
-    - **minhash_similarity.py**: A Python file implementing the MinHash algorithm to generate signatures for sets and estimate their Jaccard similarity. It supports linear, polynomial, and universal hash functions and provides functionality to create MinHash signatures and compare similarity between sets.
+# Movie Project
+
+This folder contains a notebook file with the progress and comments of the tasks performed, and several `.py` files of the functions implemented for various tasks. Specifically, it includes:
+
+## Files:
+
+- **Movie Dataset Analysis.ipynb** ![Jupyter Logo](https://upload.wikimedia.org/wikipedia/commons/a/a0/Jupyter_logo_2.svg): A Jupyter Notebook containing Python code, explanations, and outputs for each question of the homework, along with pseudocode for an algorithm. The computational complexity is analyzed and compared with that of an LLM response model.
+
+- **locality_sensitive_hashing.py** ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo.png): A Python file that implements the Locality Sensitive Hashing (LSH) algorithm. It builds hash buckets based on MinHash signatures to efficiently identify similar items, supports querying for similar users, and includes tools for debugging bucket distributions.
+
+- **minhash_similarity.py** ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo.png): A Python file implementing the MinHash algorithm to generate signatures for sets and estimate their Jaccard similarity. It supports linear, polynomial, and universal hash functions and provides functionality to create MinHash signatures and compare similarity between sets.
 
 
 
