@@ -53,11 +53,11 @@ This folder contains a notebook file with the progress and comments of the tasks
 
 ## Files:
 
-- **Movie Dataset Analysis.ipynb** ![Jupyter Logo](https://upload.wikimedia.org/wikipedia/commons/a/a0/Jupyter_logo_2.svg): A Jupyter Notebook containing Python code, explanations, and outputs for each question of the homework, along with pseudocode for an algorithm. The computational complexity is analyzed and compared with that of an LLM response model.
+- **Movie Dataset Analysis.ipynb** ![Jupyter Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png): A Jupyter Notebook containing Python code, explanations, and outputs for each question of the homework, along with pseudocode for an algorithm. The computational complexity is analyzed and compared with that of an LLM response model.
 
-- **locality_sensitive_hashing.py** ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo.png): A Python file that implements the Locality Sensitive Hashing (LSH) algorithm. It builds hash buckets based on MinHash signatures to efficiently identify similar items, supports querying for similar users, and includes tools for debugging bucket distributions.
+- **locality_sensitive_hashing.py** ![Python Logo](https://cdn.iconscout.com/icon/free/png-256/python-14-569257.png): A Python file that implements the Locality Sensitive Hashing (LSH) algorithm. It builds hash buckets based on MinHash signatures to efficiently identify similar items, supports querying for similar users, and includes tools for debugging bucket distributions.
 
-- **minhash_similarity.py** ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo.png): A Python file implementing the MinHash algorithm to generate signatures for sets and estimate their Jaccard similarity. It supports linear, polynomial, and universal hash functions and provides functionality to create MinHash signatures and compare similarity between sets.
+- **minhash_similarity.py** ![Python Logo](https://cdn.iconscout.com/icon/free/png-256/python-14-569257.png): A Python file implementing the MinHash algorithm to generate signatures for sets and estimate their Jaccard similarity. It supports linear, polynomial, and universal hash functions and provides functionality to create MinHash signatures and compare similarity between sets.
 
 
 
