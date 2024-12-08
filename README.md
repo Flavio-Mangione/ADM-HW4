@@ -53,12 +53,13 @@ This folder contains a notebook file with the progress and comments of the tasks
 
 ### Files:
 
-- **Movie Dataset Analysis.ipynb**: A Jupyter Notebook containing Python code, explanations, and outputs for each question of the homework, along with pseudocode for an algorithm. The computational complexity is analyzed and compared with that of an LLM response model.
+- [**Movie Dataset Analysis.ipynb**](https://github.com/Flavio-Mangione/Movie-Recommendation-System/blob/main/Movie%20Project/Movie%20recommendation.ipynb): A Jupyter Notebook containing Python code, explanations, and outputs for each question of the homework, along with pseudocode for an algorithm. The computational complexity is analyzed and compared with that of an LLM response model.
 
-- **locality_sensitive_hashing.py**: A Python file that implements the Locality Sensitive Hashing (LSH) algorithm. It builds hash buckets based on MinHash signatures to efficiently identify similar items, supports querying for similar users, and includes tools for debugging bucket distributions.
+- [**locality_sensitive_hashing.py**](https://github.com/Flavio-Mangione/Movie-Recommendation-System/blob/main/Movie%20Project/locality_sensitive_hashing.py): A Python file that implements the Locality Sensitive Hashing (LSH) algorithm. It builds hash buckets based on MinHash signatures to efficiently identify similar items, supports querying for similar users, and includes tools for debugging bucket distributions.
 
-- **minhash_similarity.py**: A Python file implementing the MinHash algorithm to generate signatures for sets and estimate their Jaccard similarity. It supports linear, polynomial, and universal hash functions and provides functionality to create MinHash signatures and compare similarity between sets.
+- [**minhash_similarity.py**](https://github.com/Flavio-Mangione/Movie-Recommendation-System/blob/main/Movie%20Project/minhash_similarity.py): A Python file implementing the MinHash algorithm to generate signatures for sets and estimate their Jaccard similarity. It supports linear, polynomial, and universal hash functions and provides functionality to create MinHash signatures and compare similarity between sets.
 
+- [**kmeans_progress.gif**](https://github.com/Flavio-Mangione/Movie-Recommendation-System/blob/main/Movie%20Project/kmeans_progress.gif): Output file in gif format to see the progression of kmeans for the solution of Bonus Question
 
 
 
