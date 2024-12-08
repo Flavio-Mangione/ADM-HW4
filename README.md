@@ -45,13 +45,13 @@ In addition to creating a user preference recommendation system, the computation
 
 ---
 
-### Repository Contents:
+# Repository Contents:
 
-# Movie Project
+## Movie Project
 
 This folder contains a notebook file with the progress and comments of the tasks performed, and several `.py` files of the functions implemented for various tasks. Specifically, it includes:
 
-## Files:
+### Files:
 
 - **Movie Dataset Analysis.ipynb**: A Jupyter Notebook containing Python code, explanations, and outputs for each question of the homework, along with pseudocode for an algorithm. The computational complexity is analyzed and compared with that of an LLM response model.
 
