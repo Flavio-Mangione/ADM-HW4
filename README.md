@@ -59,7 +59,7 @@ This folder contains a notebook file with the progress and comments of the tasks
 
 - [**minhash_similarity.py**](https://github.com/Flavio-Mangione/Movie-Recommendation-System/blob/main/Movie%20Project/minhash_similarity.py): A Python file implementing the MinHash algorithm to generate signatures for sets and estimate their Jaccard similarity. It supports linear, polynomial, and universal hash functions and provides functionality to create MinHash signatures and compare similarity between sets.
 
-- [**kmeans_progress.gif**](https://github.com/Flavio-Mangione/Movie-Recommendation-System/blob/main/Movie%20Project/kmeans_progress.gif): Output file in gif format to see the progression of kmeans for the solution of Bonus Question
+- [**kmeans_progress.gif**](https://github.com/Flavio-Mangione/Movie-Recommendation-System/blob/main/Movie%20Project/kmeans_progress.gif): Output file in gif format to see the progression of Kmeans Algorithm for clustering for the solution of Bonus Question
 
 
 
